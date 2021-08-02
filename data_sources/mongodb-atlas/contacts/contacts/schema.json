@@ -1,0 +1,62 @@
+{
+    "properties": {
+        "Account": {
+            "bsonType": "string"
+        },
+        "CRMLink": {
+            "bsonType": "string"
+        },
+        "Degree": {
+            "bsonType": "int"
+        },
+        "FirstName": {
+            "bsonType": "string"
+        },
+        "Goal": {
+            "bsonType": "string"
+        },
+        "InvitationPending": {
+            "bsonType": "bool"
+        },
+        "LastName": {
+            "bsonType": "string"
+        },
+        "LastUpdateInList": {
+            "bsonType": "date"
+        },
+        "LinkedIn": {
+            "bsonType": "string"
+        },
+        "List": {
+            "bsonType": "string"
+        },
+        "Notes": {
+            "bsonType": "string"
+        },
+        "ProofPoint": {
+            "bsonType": "string"
+        },
+        "Region": {
+            "bsonType": "string"
+        },
+        "Role": {
+            "bsonType": "string"
+        },
+        "Spoke": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "lastImport": {
+            "bsonType": "date"
+        },
+        "salesNavId": {
+            "bsonType": "string"
+        },
+        "userID": {
+            "bsonType": "string"
+        }
+    },
+    "title": "contact"
+}

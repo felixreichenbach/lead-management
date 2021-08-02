@@ -1,0 +1,38 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "account": {
+            "bsonType": "string"
+        },
+        "email_1": {
+            "bsonType": "string"
+        },
+        "email_2": {
+            "bsonType": "string"
+        },
+        "family_name": {
+            "bsonType": "string"
+        },
+        "given_name": {
+            "bsonType": "string"
+        },
+        "jobTitle": {
+            "bsonType": "string"
+        },
+        "list": {
+            "bsonType": "string"
+        },
+        "name": {
+            "bsonType": "string"
+        },
+        "phone_1": {
+            "bsonType": "string"
+        },
+        "phone_2": {
+            "bsonType": "string"
+        }
+    },
+    "title": "google_contact"
+}

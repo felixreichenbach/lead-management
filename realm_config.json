@@ -1,0 +1,7 @@
+{
+    "app_id": "contacts-management-quucp",
+    "config_version": 20210101,
+    "name": "contacts-management",
+    "location": "IE",
+    "deployment_model": "LOCAL"
+}

@@ -1,0 +1,17 @@
+{
+    "collection": "contacts",
+    "database": "contacts",
+    "roles": [
+        {
+            "name": "owner",
+            "apply_when": {
+                "userID": "%%user.id"
+            },
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
